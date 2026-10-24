@@ -3,3 +3,5 @@ build/
 *.xcodeproj
 .DS_Store
 Resources/Models/*.mlpackage
+.claude/
+brag-output*/
